@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Read/SC_1020_Jolly_Jingly_Christmas.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
